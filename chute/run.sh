@@ -11,7 +11,7 @@ while true; do
     #
     # NOT IMPLEMENTED
     #
-    ping -c 1 8.8.8.8
+    ping -c 1 8.8.8.8 >> /usr/share/nginx/html/results.txt
     sleep 60
 done
 
