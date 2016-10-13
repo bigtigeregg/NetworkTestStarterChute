@@ -11,7 +11,7 @@ while true; do
     #
     # NOT IMPLEMENTED
     #
-
+    ping -c 1 8.8.8.8
     sleep 60
 done
 
